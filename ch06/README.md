@@ -20,7 +20,7 @@ To find a line/hyperplane `w` that "best" seperate the data points<br/>
 **Idea**<br/> Instead of solving the big quadratic equation(dual form), update a **pair** of alphas each time (hopefully they converge in the end), while maintaining  ![](http://www.sciweavers.org/tex2img.php?eq=%5Csum%20_%7Bi%3D1%7D%5E%7Bm%7D%20%5Calpha_%7Bi%7Dy_%7Bi%7D%3D0&bc=White&fc=Black&im=jpg&fs=10&ff=arev&edit=0)<br/>
 
 **Update Function**<br/>
-![](http://www.sciweavers.org/tex2img.php?eq=%20%5Calpha_j%27%3D%20clip%28%5Calpha_j%2B%20%5Cfrac%7By_j%28E_j-E_i%29%7D%7B2K_%7Bij%7D-K_%7Bii%7D-K_%7Bjj%7D%7D%20%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+![](https://bit.ly/3dXm8XR)
 
 ### Kernels<br/>
 use **Kernel functions** to map data points that are not linearly separable to higher dimensions.
