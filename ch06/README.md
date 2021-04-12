@@ -20,7 +20,7 @@ To find a line/hyperplane `w` that "best" seperate the data points<br/>
 **Idea**<br/> Instead of solving the big quadratic equation(dual form), update a **pair** of alphas each time (hopefully they converge in the end), while maintaining  ![](https://raw.githubusercontent.com/JasonFengGit/ML-In-Action/master/ch06/formula_imgs/2_smaller.png)<br/>
 
 **Update Function**<br/>
-![](https://bit.ly/3dXm8XR)
+![](https://raw.githubusercontent.com/JasonFengGit/ML-In-Action/master/ch06/formula_imgs/6.png)
 
 ### Kernels<br/>
 use **Kernel functions** to map data points that are not linearly separable to higher dimensions.
