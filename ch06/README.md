@@ -27,10 +27,3 @@ use **Kernel functions** to map data points that are not linearly separable to h
 
 **Radial bias function**<br/>
 ![](https://raw.githubusercontent.com/JasonFengGit/ML-In-Action/master/ch06/formula_imgs/5.png)
-
-## PDF Notes
-<object data="https://github.com/JasonFengGit/ML-In-Action/raw/master/ch06/SVM.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/JasonFengGit/ML-In-Action/raw/master/ch06/SVM.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/JasonFengGit/ML-In-Action/raw/master/ch06/SVM.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
