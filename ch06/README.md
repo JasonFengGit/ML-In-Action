@@ -1,5 +1,6 @@
 # Support Vector Machine
 > More notes on [SVM.pdf](https://github.com/JasonFengGit/ML-In-Action/blob/master/ch06/SVM.pdf)<br/>
+> [MIT's SVM Note](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/readings/MIT6_034F10_svm.pdf)
 
 ## SVM idea
 To find a line/hyperplane `w` that "best" seperate the data points<br/>
