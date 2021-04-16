@@ -1,2 +1,2 @@
-# K-nearest Neighbors
+# K-Nearest Neighbors
 TODO
