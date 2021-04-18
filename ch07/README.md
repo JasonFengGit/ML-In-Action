@@ -1,5 +1,7 @@
 # AdaBoost Meta-algorithm & Classification Imbalance
-> [MIT's Boosting Notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/readings/MIT6_034F10_boosting.pdf)
+> [MIT's Boosting Notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/readings/MIT6_034F10_boosting.pdf)<br/>
+> [Cornell's Boosting Note's](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote19.html)
+
 
 ## AdaBoost
 
